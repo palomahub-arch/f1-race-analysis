@@ -7,14 +7,14 @@
 - [x] Teste de instalação OK
 
 ### Parte 1: Lap Times (2h)
-- [ ] Dados carregados com FastF1
-- [ ] Limpeza de voltas inválidas
-- [ ] Gráfico: Evolução de tempo por volta
-- [ ] Análise de degradação por stint
-- [ ] Gráfico: Degradação comparativa
-- [ ] Gap analysis vs líder
-- [ ] Estatísticas finais calculadas
-- [ ] Dados exportados (CSV)
+- [x] Dados carregados com FastF1
+- [x] Limpeza de voltas inválidas
+- [x] Gráfico: Evolução de tempo por volta
+- [x] Análise de degradação por stint
+- [x] Gráfico: Degradação comparativa
+- [x] Gap analysis vs líder
+- [x] Estatísticas finais calculadas
+- [x] Dados exportados (CSV)
 
 ### Parte 2: Telemetry (3h)
 - [ ] Voltas mais rápidas selecionadas
