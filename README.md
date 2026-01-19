@@ -171,8 +171,8 @@ pip install -r requirements.txt
 jupyter notebook
 
 # Open notebooks in order:
-# 1. notebooks/01_race_analysis.ipynb
-# 2. notebooks/02_telemetry_comparison.ipynb
+# 1. notebooks/part_01_lap_time_analysis.ipynb
+# 2. notebooks/part_02_telemetry_microsector_analysis.ipynb
 ```
 
 ### Modify for Different Race
