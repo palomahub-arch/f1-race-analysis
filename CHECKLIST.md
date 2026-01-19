@@ -17,15 +17,15 @@
 - [x] Dados exportados (CSV)
 
 ### Parte 2: Telemetry (3h)
-- [ ] Voltas mais rápidas selecionadas
-- [ ] Telemetria extraída
-- [ ] Gráfico: Speed trace
-- [ ] Gráfico: Throttle & Brake
-- [ ] Gráfico: Gear shifts
-- [ ] Análise de micro-setores
-- [ ] Gráfico: Delta por setor
-- [ ] Gráfico: Speed heatmap
-- [ ] Análise exportada (CSV)
+- [x] Voltas mais rápidas selecionadas
+- [x] Telemetria extraída
+- [x] Gráfico: Speed trace
+- [x] Gráfico: Throttle & Brake
+- [x] Gráfico: Gear shifts
+- [x] Análise de micro-setores
+- [x] Gráfico: Delta por setor
+- [x] Gráfico: Speed heatmap
+- [x] Análise exportada (CSV)
 
 ### Parte 3: Documentação (1h)
 - [ ] README.md completo
